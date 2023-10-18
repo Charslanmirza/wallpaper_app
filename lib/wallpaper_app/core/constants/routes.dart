@@ -1,0 +1,17 @@
+const String root = '/';
+const String searchProducts = '/search_products';
+const String brandsRoute = '/all_brands';
+const String productDetails = '/product_details';
+const String signInRoute = '/sign_in';
+const String signUpRoute = '/sign_up';
+const String settingsRoute = '/settings';
+const String notificationsRoute = '/notifications';
+const String displaySettingsRoute = '/display_settings';
+const String localizationSettingsRoute = '/localization_settings';
+const String helpRoute = '/help';
+const String termsOfServiceRoute = '/terms_of_service';
+const String privacyPolicyRoute = '/privacy_policy';
+const String forgotPasswordRoute = '/forgot_password';
+const String verifyEmailRoute = '/verify_email';
+const String resetPasswordRoute = '/reset_password';
+const String resetSuccessRoute = '/reset_success';
